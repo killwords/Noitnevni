@@ -1,0 +1,11 @@
+{
+    "log_path" : "log.txt",
+    "prevent_scan_frequency":20,
+    "init_dict_path":"./db/all.txt",
+    "web":true,
+    "check_dict":["./db/sql.txt", "./db/all.txt"],
+    "blacklist":[],
+    "port_forwarding":[  
+        ["433", "8443"]
+    ]
+}
