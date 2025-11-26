@@ -1,6 +1,7 @@
-# Noitnevni WAF项目
+# 中文:
+## Noitnevni WAF项目
 
-## 许可证与使用条款
+### 许可证与使用条款
 
 **重要提示**：本项目源代码是“可见的”，但并非完全开源。
 
@@ -15,3 +16,23 @@
 如果您希望获得商业使用许可，请通过 **[wangjunbuo2022@163.com]** 与我们联系。
 
 有关完整条款，请参阅 [LICENSE](LICENSE) 文件。
+# English:
+## Noitnevni WAF Project
+### License & Terms of Use
+**Important Notice**: This project's source code is "available to view" but is not fully open source.
+
+- **You Are Allowed To**: Freely view, study, modify the source code, and use it for personal and non-commercial purposes.
+
+- **You Are Not Allowed To**: Use this project for any commercial purpose without obtaining our explicit written authorization.
+
+**Commercial Use includes**, but is not limited to:
+
+- Integrating this WAF into commercial products for sale.
+
+- Deploying and using it within an enterprise's internal production environment.
+
+- Providing commercial services or technical support based on this project.
+
+If you wish to obtain a commercial use license, please contact us at **[wangjunbuo2022@163.com]**.
+
+For the complete terms, please refer to the [LICENSE](LICENSE) file.
